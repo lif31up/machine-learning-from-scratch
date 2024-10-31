@@ -1,11 +1,13 @@
-## Available Implementations
+implement AI algorithms using only pure python as certification of understanding to AI mathematics and process.
+* `sklearn`
+* `numpy`
+
+### Available Implementations
 * Linear Regression
 * Logistic Regression
 * Adaline
-* Vanilla ANN(MLP)
+* ANN
+  * Forward Propagation
+  * Backward Propagation with Autograd System
 * ~~CNN~~
 * ~~RNN~~
-
-### Import
-* `sklearn`
-* `numpy`
