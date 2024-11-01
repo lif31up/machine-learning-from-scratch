@@ -6,6 +6,6 @@ implement AI algorithms using only pure python as certification of understanding
 * Linear Regression
 * Logistic Regression
 * Adaline
-* ANN with Autograd System
+* ANN, DNN with Autograd System
 * ~~CNN~~
 * ~~RNN~~
