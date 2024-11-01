@@ -7,7 +7,6 @@ implement AI algorithms using only pure python as certification of understanding
 * Logistic Regression
 * Adaline
 * ANN
-  * Forward Propagation
-  * Backward Propagation with Autograd System
+  * Backward Propagation with Autograd
 * ~~CNN~~
 * ~~RNN~~
