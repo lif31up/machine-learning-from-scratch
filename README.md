@@ -2,8 +2,8 @@
 ## AI Algorithms in Pure Python
 This repository contains implementations of core AI algorithms built using only pure Python. The goal of this project is to provide a hands-on understanding of AI mathematics and processes, without relying on external machine learning libraries like scikit-learn. Instead, we use libraries like NumPy for mathematical operations, allowing you to dive deep into the mathematical foundation of machine learning algorithms.
 
-* NumPy: For numerical computations such as matrix operations, dot products, etc.
-* Pure Python: The algorithms are implemented with basic Python constructs, demonstrating the core workings of each model.
+* `NumPy`: For numerical computations such as matrix operations, dot products, etc.
+* `Pure Python`: The algorithms are implemented with basic Python constructs, demonstrating the core workings of each model.
 
 ### 1. Linear Regression
 A simple algorithm used for modeling the relationship between a dependent variable and one or more independent variables.
