@@ -18,7 +18,7 @@ Uses gradient descent to minimize the log loss.
 #### Key Features:
 Classify data into one of two classes (0 or 1).
 Use sigmoid activation function and cross-entropy loss for optimization.
-### 3. Adaline (Adaptive Linear Neuron)
+### 3. Adaline
 An early form of neural networks for regression and classification tasks.
 Implements gradient descent to minimize the sum of squared errors.
 Unlike Logistic Regression, Adaline uses the identity activation function and updates weights based on the error signal.
